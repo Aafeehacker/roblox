@@ -6,4 +6,5 @@ pbsd end
 
 (irl k
 roblox (import2.0) ('millatry){Roleplay demo} (5pg storage) (game army ,veachals involved)
-(practice shooting/=cash for every"BULLET;)
+(practice shooting/=cash
+    >python --virsion
